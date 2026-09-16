@@ -1,11 +1,71 @@
 {
   "version": 1,
   "skills": {
+    "3-statement-model": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/financial-analysis/skills/3-statement-model/SKILL.md",
+      "computedHash": "1bf9f28bb52c29f8bb976d5bcba88910307983866424d43ff209b9c305eea9c8"
+    },
+    "catalyst-calendar": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/equity-research/skills/catalyst-calendar/SKILL.md",
+      "computedHash": "2a0eb640f32537406366f5971927bf4424e84f86509a5cda32adcd7efb799397"
+    },
+    "competitive-analysis": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/financial-analysis/skills/competitive-analysis/SKILL.md",
+      "computedHash": "14cf7f97a5f70a7c18c4f984de9301d446c23eb1f25f9e66add2025b4a65a30f"
+    },
+    "comps-analysis": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/financial-analysis/skills/comps-analysis/SKILL.md",
+      "computedHash": "0e0c5e94e64e20d734874daf2afab71dfcb7e48f2064d34146e09128f1de6fdd"
+    },
+    "dcf-model": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/financial-analysis/skills/dcf-model/SKILL.md",
+      "computedHash": "5ec4336850cc7cf2c93932d7163bdb273d2f3ffadcaa216cb90361fe8d2f217f"
+    },
+    "earnings-analysis": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/equity-research/skills/earnings-analysis/SKILL.md",
+      "computedHash": "57da904968b9c28d0538f0876078601e662aa12932aeffda45391cd832eb5dcd"
+    },
+    "earnings-preview-single": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/partner-built/spglobal/skills/earnings-preview-beta/SKILL.md",
+      "computedHash": "4d4c690bfbd1916baf8e50efe56ac9606d905ed73003430f8244b77ea1b9938f"
+    },
+    "equity-research": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/partner-built/lseg/skills/equity-research/SKILL.md",
+      "computedHash": "dc02cfb86e237e6c82db8bce7ed34bbd7cea6e6736d49b2c72b6615ac9518e6f"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
+    },
+    "initiating-coverage": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/equity-research/skills/initiating-coverage/SKILL.md",
+      "computedHash": "a7b412545b16145a5b2ebdb14bc16086c8a33143fa58abdfba2955c995135074"
+    },
+    "thesis-tracker": {
+      "source": "anthropics/financial-services",
+      "sourceType": "github",
+      "skillPath": "plugins/vertical-plugins/equity-research/skills/thesis-tracker/SKILL.md",
+      "computedHash": "da5c02de051d41f1120918f482ef34def6b1dd96cd04668778478bf43fd12e00"
     }
   }
 }
